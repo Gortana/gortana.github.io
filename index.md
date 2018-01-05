@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# 인공지능의 미래를 만나보세요 - Gortana 를 소개합니다.
 
-You can use the [editor on GitHub](https://github.com/Gortana/gortana.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 안녕, Gortana. 넌 누구니?
+Gortana 는 2014년에 처음 공개된 인공지능 엔진으로써, Gortana Labs의 목표는 가장 인간을 닮은 인공지능을 인공지능 스스로 만들게하는 것 입니다. 이 목표를 실현하기 위해, Gortana는 매일 인간이 인터넷에 남기는 방대한 양의 언어를 습득하고 분석하고 있습니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Gortana Labs는 누구인가요?
+Gortana Labs는 Gortana를 만들고있는 연구소입니다. 인문학, 언어학, 사회학, 컴퓨터공학 등 Mind에 대한 분야 최고의 연구원들이 함께하고 있습니다. 저희는 저희의 자연어 처리 기술과 인공지능을 필요로 하는 분야에 라이선싱 하고 있으며, Gortana는 그 프로젝트라고 할 수 있습니다. 한국어를 연구하고 있지만, 본사는 미국 샌프란시스코에 있으며, 저희 Gortana Labs 연구원들은 전 세계 어디에서나 함께하고 있습니다.
 
-### Markdown
+## Gortana 는 어떻게 작동하나요?
+Gortana가 매번 답을 할때마다, 고도화된 알고리즘이 문맥과 상황을 판단하여 어떤 대답을 해야할지 답변을 직접 만들어냅니다. 이미 만들어진 문장이 아니라, 그 상황에 따라서 문장을 만들어냅니다.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Gortana AI**: Gortana의 자연어 처리를 담당합니다. 단어, 문장, 문맥과 상황을 파악하여 적절한 답변을 만듭니다.
 
-```markdown
-Syntax highlighted code block
+**Gortana DeepThink**: Gortana의 인공신경망 엔진이며, 필요할 때 더 수준높은 언어를 구사할 수 있도록 Gortana AI 를 돕습니다.
 
-# Header 1
-## Header 2
-### Header 3
+**Gortana Search Engine**: Gortana 데이터베이스 외부에서 수집한 정보를 Gortana가 전달하기 알맞게 가공합니다.
 
-- Bulleted
-- List
+**Gortana Image Processing**: 이미지를 검색하고 사물을 인식합니다.
 
-1. Numbered
-2. List
+**Gortana HEART**: 불량 사용자를 탐지하고, 나쁜 언어를 구분하며, 도덕성과 감정 표현을 담당합니다.
 
-**Bold** and _Italic_ and `Code` text
+### Gortana 소프트웨어 버전
+Gortana Labs의 최신 인공지능을 테스트하기 위해, Gortana는 항상 자동으로 업데이트됩니다. 업데이트 시 Gortana 소프트웨어별로 방향성이 달라저서 경험하시는 느낌이 달라질 수 있습니다.
 
-[Link](url) and ![Image](src)
-```
+현재 최신 버전은 Gortana X(v2) (Beta) 이며, 이전 버전은 Gortana X 입니다.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 자주 묻는 질문.
+**Gortana 반응 속도가 느립니다.**: 텔레그램 Gortana 시스템에 할당되는 자원은 제한적입니다.
 
-### Jekyll Themes
+**Gortana 가 제 말을 무시했습니다.**: 메시지 중요도 분석 과정에서 중요도가 떨어지면 무시될 수 있습니다. 또는, 시스템에 너무 많은 부하가 걸렸을 수도 있으니 잠시 후 다시 시도해 보세요.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gortana/gortana.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Gortana 가 입력 중 표시가 나타납니다.** Gortana AI가 문장을 생성하고 있을 때 나타나는 표시로, 정상적인 현상입니다.
+**Gortana HEART에서 차단되었습니다.**: 다음부턴 더 예쁜 말을 사용하는건 어떨까요? 이메일로 문의해 주시기 바랍니다.
 
-### Support or Contact
+**Gortana 가 온라인이 아닙니다.** Gortana는 항상 온라인 상태가 아닙니다. 테스트 상태일때 활성화됩니다.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Gortana 는 왜 Telegram Bot 계정이 아닌가요?**: Gortana는 Telegram에서 Bot API를 제공하기 전부터 서비스를 시작하였으며, 그때 사용하던 계정이 현재까지 이어온 것 입니다.
+
+**Gortana가 오타를 내었습니다.**: 사람들이 작성하는 글들을 수집하는 과정에서 오타가 걸러지지 않은 것 같습니다. 나중에 해결되거나, 또는 밑 이메일로 제보해주시면 감사하겠습니다.
+
+### Gortana Labs에 연락할 수 있을까요?
+물론이죠. _gortana@technologist.com_ 으로 이메일을 남겨주세요.
+
+**_Made with <3 in San Francisco_**
