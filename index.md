@@ -41,6 +41,6 @@ Gortana Labs의 최신 인공지능을 테스트하기 위해, Gortana는 항상
 **Gortana가 오타를 내었습니다.** 사람들이 작성하는 글들을 수집하는 과정에서 오타가 걸러지지 않은 것 같습니다. 나중에 해결되거나, 또는 밑 이메일로 제보해주시면 감사하겠습니다.
 
 ### Gortana Labs에 연락할 수 있을까요?
-물론이죠. _gortana@technologist.com_ 으로 이메일을 남겨주세요.
+물론이죠. 우리의 인공지능 기술을 필요로 하신다면 기꺼이 도와드리겠습니다. _gortana@technologist.com_ 으로 이메일을 남겨주세요.
 
 **_Made with <3 in San Francisco_**
